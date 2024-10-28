@@ -3,18 +3,18 @@
 
   
 
-This repository hosts the code accompanying the paper "Multiple Rewards Best Policy Identification". Our study investigates the exploration problem in Reinforcement Learning (RL) in presence of multiple rewards.
+This repository hosts the code accompanying the NeurIPS24 paper "Multiple Rewards Best Policy Identification". Our study investigates the exploration problem in Reinforcement Learning (RL) in presence of multiple rewards.
 
   
 
-**Authors**: Anonymous \
+**Authors**: Alessio Russo, Filippo Vannella
 
-**License**: MIT\
+**License**: MIT
 
-**Additional license info**:\
+**Additional license info**:
 - The `Riverswim, ForkedRiverswim, DeepSea` environments; and other files (`mdp.py`, `cutils.pyx`, `utils.py`) in the tabular folder were taken from the [Model Free Active Exploration repository](https://github.com/rssalessio/ModelFreeActiveExplorationRL), licensed under the MIT license.\
 
-- The code of `DBMR-BPI` was originally adapted from `DBMF-BPI` in [Model Free Active Exploration repository](https://github.com/rssalessio/ModelFreeActiveExplorationRL), licensed under the MIT license.\
+- The code of `DBMR-BPI` was originally adapted from `DBMF-BPI` in [Model Free Active Exploration repository](https://github.com/rssalessio/ModelFreeActiveExplorationRL), licensed under the MIT license.
 
 - the `CartPoleSwingUp` environment, in `continuous/envs`, was taken from [Model Free Active Exploration repository](https://github.com/rssalessio/ModelFreeActiveExplorationRL) which originally was taken from the BSuite repository (DeepMind Technologies Limited) with APACHE 2.0 license.\
 
